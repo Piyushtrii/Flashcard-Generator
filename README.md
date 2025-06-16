@@ -1,4 +1,5 @@
 This project is a simple Flashcard Generation Tool that converts the contents of a PDF file into Anki-style flashcards using OpenAI's GPT-3.5-turbo model.
+
 🚀 Features
 Extracts text from PDF files.
 Automatically generates flashcards in Question;Answer format.
